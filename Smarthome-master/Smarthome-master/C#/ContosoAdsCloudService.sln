@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30506.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "ContosoAdsCloudService", "ContosoAdsCloudService\ContosoAdsCloudService.ccproj", "{DAC52BA4-6788-4D89-90CD-BCDE81AB5C61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoAdsWeb", "ContosoAdsWeb\ContosoAdsWeb.csproj", "{B37FAC2A-499B-4A07-95DE-E38150C231BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoAdsWorker", "ContosoAdsWorker\ContosoAdsWorker.csproj", "{8AF8753F-8211-4907-A250-14776FF6A2AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoAdsCommon", "ContosoAdsCommon\ContosoAdsCommon.csproj", "{D3668FB9-73F6-4BD3-8283-465A76AEB7DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAC52BA4-6788-4D89-90CD-BCDE81AB5C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAC52BA4-6788-4D89-90CD-BCDE81AB5C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAC52BA4-6788-4D89-90CD-BCDE81AB5C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAC52BA4-6788-4D89-90CD-BCDE81AB5C61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B37FAC2A-499B-4A07-95DE-E38150C231BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B37FAC2A-499B-4A07-95DE-E38150C231BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B37FAC2A-499B-4A07-95DE-E38150C231BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B37FAC2A-499B-4A07-95DE-E38150C231BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AF8753F-8211-4907-A250-14776FF6A2AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF8753F-8211-4907-A250-14776FF6A2AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF8753F-8211-4907-A250-14776FF6A2AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF8753F-8211-4907-A250-14776FF6A2AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3668FB9-73F6-4BD3-8283-465A76AEB7DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3668FB9-73F6-4BD3-8283-465A76AEB7DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3668FB9-73F6-4BD3-8283-465A76AEB7DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3668FB9-73F6-4BD3-8283-465A76AEB7DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

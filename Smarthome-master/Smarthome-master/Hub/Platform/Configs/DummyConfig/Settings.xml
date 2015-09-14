@@ -1,0 +1,21 @@
+﻿<Settings>
+  <Param Name="HomeId" Value="DummyHomeIdTest2" />
+  <Param Name="OrgId" Value="DummyOrgId"/>
+  <Param Name="StudyId" Value="DummyStudyId"/>
+  <Param Name="DataStoreAccountName" Value=""/>
+  <Param Name="DataStoreAccountKey" Value=""/>
+
+  <Param Name="PortRegisterDelay" Value="1000" />
+
+  <Param Name="MaxStopExecutionTime" Value="5000" />
+  <Param Name="MaxPortDeregisteredExecutionTime" Value="5000" />
+  <Param Name="MaxFinallyBlockExecutionTime" Value="30000" />
+
+  <Param Name="ConfigLookupFrequency" Value="300000" />
+  <Param Name="HeartbeatServiceMode" Value="Production"/>
+
+  <!-- Details for connecting to a test Azure storage account. Note this account is public and for test/demo purposes only -->
+  <Param Name="DataStoreAccountName" Value="lotkmustorage" />
+  <Param Name="DataStoreAccountKey" Value="K6ys6ZFZBT5Ey1XdJu7Cpqd0im46/0QT2XocUwQ2csA7x6dKo4ZMzvI9AjKKx5jlxJjF4BoCW5fdbB3Rolzgdg==" />
+
+</Settings>

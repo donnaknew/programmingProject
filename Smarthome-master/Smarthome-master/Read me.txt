@@ -1,0 +1,2 @@
+Since we removed some important source code lines from 'labofthings-ArduinoRecording.zip' file, 
+students should follow the instruction from presentation file (A Sample App of LoT) to run this project.

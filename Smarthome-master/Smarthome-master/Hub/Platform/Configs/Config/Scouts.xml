@@ -1,0 +1,11 @@
+﻿<Scouts>
+  <Scout Name="HomeOS.Hub.Scouts.WebCam" DllName="HomeOS.Hub.Scouts.WebCam.dll"/>
+  <Scout Name="HomeOS.Hub.Scouts.Dummy" DllName="HomeOS.Hub.Scouts.Dummy.dll"/>
+  <Scout Name="HomeOS.Hub.Scouts.Arduino" DllName="HomeOS.Hub.Scouts.Arduino.dll"/>
+ <!--  
+  <Scout Name="HomeOS.Hub.Scouts.Gadgeteer" DllName="HomeOS.Hub.Scouts.Gadgeteer.dll"/>
+  
+  <Scout Name="HomeOS.Hub.Scouts.AxisCam" DllName="HomeOS.Hub.Scouts.AxisCam.dll"/>
+
+-->
+</Scouts>

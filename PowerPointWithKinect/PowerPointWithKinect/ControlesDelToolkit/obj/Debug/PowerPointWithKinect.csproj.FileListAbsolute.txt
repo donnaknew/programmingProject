@@ -1,0 +1,16 @@
+C:\Users\comroom2\Desktop\Kinect-master\Practica 9\ControlesDelToolkit\ControlesDelToolkit\bin\Debug\KinectInteraction180_32.dll
+C:\Users\comroom2\Desktop\Kinect-master\Practica 9\ControlesDelToolkit\ControlesDelToolkit\bin\Debug\PowerPointWithKinect.exe.config
+C:\Users\comroom2\Desktop\Kinect-master\Practica 9\ControlesDelToolkit\ControlesDelToolkit\bin\Debug\PowerPointWithKinect.exe
+C:\Users\comroom2\Desktop\Kinect-master\Practica 9\ControlesDelToolkit\ControlesDelToolkit\bin\Debug\PowerPointWithKinect.pdb
+C:\Users\comroom2\Desktop\Kinect-master\Practica 9\ControlesDelToolkit\ControlesDelToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\comroom2\Desktop\Kinect-master\Practica 9\ControlesDelToolkit\ControlesDelToolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\comroom2\Desktop\Kinect-master\Practica 9\ControlesDelToolkit\ControlesDelToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\comroom2\Desktop\Kinect-master\Practica 9\ControlesDelToolkit\ControlesDelToolkit\obj\Debug\MainWindow.baml
+C:\Users\comroom2\Desktop\Kinect-master\Practica 9\ControlesDelToolkit\ControlesDelToolkit\obj\Debug\MainWindow.g.cs
+C:\Users\comroom2\Desktop\Kinect-master\Practica 9\ControlesDelToolkit\ControlesDelToolkit\obj\Debug\App.g.cs
+C:\Users\comroom2\Desktop\Kinect-master\Practica 9\ControlesDelToolkit\ControlesDelToolkit\obj\Debug\PowerPointWithKinect_MarkupCompile.cache
+C:\Users\comroom2\Desktop\Kinect-master\Practica 9\ControlesDelToolkit\ControlesDelToolkit\obj\Debug\PowerPointWithKinect.g.resources
+C:\Users\comroom2\Desktop\Kinect-master\Practica 9\ControlesDelToolkit\ControlesDelToolkit\obj\Debug\PowerPointWithKinect.Properties.Resources.resources
+C:\Users\comroom2\Desktop\Kinect-master\Practica 9\ControlesDelToolkit\ControlesDelToolkit\obj\Debug\PowerPointWithKinect.csproj.GenerateResource.Cache
+C:\Users\comroom2\Desktop\Kinect-master\Practica 9\ControlesDelToolkit\ControlesDelToolkit\obj\Debug\PowerPointWithKinect.exe
+C:\Users\comroom2\Desktop\Kinect-master\Practica 9\ControlesDelToolkit\ControlesDelToolkit\obj\Debug\PowerPointWithKinect.pdb

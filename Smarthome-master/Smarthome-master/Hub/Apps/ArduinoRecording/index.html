@@ -1,0 +1,50 @@
+﻿<script type="text/javascript" src="../GuiWeb/homeos-1.1.js"></script>
+<!DOCTYPE html>
+<html>
+<head>
+    <title> SmartHome Application</title>
+    <script type="text/javascript" src="../GuiWeb/jquery-1.7.1.js"></script>
+    <script type="text/javascript" src="../GuiWeb/common.js"></script>
+    <script type="text/javascript" src="index.js"></script>
+    <link rel="stylesheet" media="all" type="text/css" href="Styles/AppSmartCameraStyleSheet.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />    <!-- Back-up in case there is problem with responsive css-->
+</head>
+<body>
+    <div class="dashboard_toolbar">
+        <div class="homeID_title"><a href="../GuiWeb/index.html">Dashboard</a> | SmartHome Service </div>
+    </div>
+
+    <div class="page">
+        <div class="row">
+            <div class="page_title col">SmartHome Application</div>
+            <div class="page_title col" id="status" style="display: none">No Cameras installed, add some using Add Devices</div>
+        </div>
+        <div class="row">
+            <div class="row">
+                <div id="cameraGoodness" class="app_block col">
+                    <div class="recordOnMotion">
+                        state : <input type="text" id="state_form" value="Init" size="10" />
+                    </div>
+                    <img id="camera1Image" class="app_image flip-h" />
+                    <div class="app_control">
+                        <select id="cameraList" onchange="CameraSelected()"></select>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <h1>Device List in Your Home</h1>
+                <h2>You can set your device reference</h2>
+                <div class="app_block" id="deviceList" stye="">
+                </div>
+            </div>            
+            <div class="row">
+                <div id="videoClips" class="recordings_block col">
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="settings_listitem" id="divDebugInfo" style="display:none"></div>
+</body>
+</html>
