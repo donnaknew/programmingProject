@@ -1050,11 +1050,11 @@ namespace HomeOS.Hub.Apps.ArduinoRecording
         }
 
         string SMTPaddress = "smtp.gmail.com"; //SMTP 주소, 지메일 사용
-        string SMTPid = "donnaknew"; // 지메일 아이디
-        string SMTPpass = "zmfnqheps13"; //비번
-        string senderID = "donnaknew@gmail.com"; //보내는 사람의 아이디
+        string SMTPid = "자신의 아이디를 입력"; // 지메일 아이디
+        string SMTPpass = "자신의 비번을 입력"; //비번
+        string senderID = "보내는 사람의 메일을 입력"; //보내는 사람의 아이디
         string senderNAME = "SmartHome"; //보내는 사람에 표시될 이름
-        string Tmail = "donnaknew@gmail.com";
+        string Tmail = "메일주소를 입력";
         string Tsub = "Someone get in your Home";
         string Tbody = "Someone get in your Home";
 
